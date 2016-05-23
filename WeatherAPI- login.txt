@@ -1,0 +1,5 @@
+Weather API key = bfb3136e0e74ed84ded848aea7708be8
+
+login
+http://home.openweathermap.org/ 
+sekboteReact/Respect30
